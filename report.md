@@ -1,1 +1,2 @@
 # 2898909-portfolio
+I learned how to create a repository on GitHub and clone it onto my computer to make changes locally. Through this process, I became familiar with working with version control and managing files efficiently. I also learned how to write semantic HTML code to improve structure and accessibility.
