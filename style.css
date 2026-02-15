@@ -1,0 +1,49 @@
+body {
+   margin: 0 auto;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav > ul {
+    display: flex;
+    gap: 60px;
+    justify-self: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+
+header {
+    width: 100vw;
+    height: 17vh;
+    background-color: blue;
+    padding-top: 30px;
+}
+
+header > h1 {
+    justify-self: center;
+    padding: 0;
+    margin-bottom: 0;
+    color: white;
+}
+
+main {
+    margin: 8px;
+}
+
+footer {
+    margin: 8px;
+}
+
+nav {
+    background-color: white;
+    width: 35vw;
+    height: 5vh;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 0 auto;
+}
